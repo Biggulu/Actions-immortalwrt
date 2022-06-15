@@ -47,3 +47,4 @@ A template for building OpenWrt with GitHub Actions
 - 修改编译固件为Immortalwrt
 - 修改ubuntu编译环境放在'depends-ubuntu-2004'文件
 - 修改默认IP地址192.168.19.199
+- 可以通过'diy-part1.sh'添加其他仓库
