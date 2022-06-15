@@ -42,3 +42,8 @@ A template for building OpenWrt with GitHub Actions
 ## License
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+
+## Mark
+-修改编译固件为Immortalwrt
+-修改ubuntu编译环境放在'depends-ubuntu-2004'文件
+-修改默认IP地址192.168.19.199
